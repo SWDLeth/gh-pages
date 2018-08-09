@@ -1,3 +1,38 @@
+# SWD Lethbridge
+
+This page is to report results and view standings. It is meant to streamline the league (and so I can practice some Comp Sci)
+
+This site is currently under construction.
+
+## Current Standings
+
+Graph/Chart showing names, points, matches, W, L, other notes
+Sort the order by points
+
+## Reults Reporting
+This section might be better if contained in a link to a separate page
+
+I need to have input boxes, or even better dropdown menus that will record the raw data (google forms-style)
+
+## Meta picture
+
+If I really get good at this then I will create a section with a look at which decks are victorious
+This needs to be anonymous and perhaps only available after a certain # of games, or just before the top cut
+
+
+
+//Code
+
+string name;
+int p, m, w, l;
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SWDLeth/gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
